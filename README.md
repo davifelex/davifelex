@@ -1,9 +1,11 @@
-### Olá, eu sou Davi Felex 
+### Davi Felex | Backend Developer 
 [![LinKedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/davi-tobias?trk=people-guest_people_search-card)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5567996040498)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davifelex.programador@gmail.com)
 
-![Davi Felex GitHub stats](https://github-readme-stats.vercel.app/api?username=davifelex&show_icons=true&theme=dracula)
+<!-- ![Davi Felex GitHub stats](https://github-readme-stats.vercel.app/api?username=davifelex&show_icons=true&theme=dracula) -->
+
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=davifelex&show_icons=true)
 
 ## Tecnologias que  eu utilizo
 
