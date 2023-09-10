@@ -5,8 +5,6 @@
 
 <!-- ![Davi Felex GitHub stats](https://github-readme-stats.vercel.app/api?username=davifelex&show_icons=true&theme=dracula) -->
 
-![Davi Felex Status](https://github-readme-stats.vercel.app/api?username=davifelex&show_icons=true)
-
 ## Tecnologias que  eu utilizo
 
 <div style="display: inline_block"><br/>
